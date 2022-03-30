@@ -148,7 +148,7 @@ body{
     bottom: 30px;
 
 }
-#moring, #lunch, #nap, #night{
+#morning, #lunch, #nap, #night{
     width: 281px;
     height: 45px;
     border: 1px solid;
@@ -431,7 +431,7 @@ button:hover:before {
         position: relative;
         left: 23px;
     }
-    #moring, #lunch, #nap, #night{
+    #morning, #lunch, #nap, #night{
         width: 30vw;
         height: 45px;
         position: relative;
